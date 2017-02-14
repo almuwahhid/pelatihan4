@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title= "Home"></item>
+        <item
+            android:id="@+id/web"
+            android:icon="@drawable/web"
+            android:title="Web" />
+        <item
+            android:id="@+id/peta"
+            android:icon="@drawable/map"
+            android:title="Peta" />
+        <item
+            android:id="@+id/video"
+            android:title="Video"
+            android:icon="@android:drawable/presence_video_away" />
+        <item
+            android:title="Galeri"
+            android:id="@+id/galeri"
+            android:icon="@drawable/ic_menu_gallery" />
+
+    </group>
+
+    <!-- TODO  : Membuat icon-->
+    <!-- TODO : Melakukan hal bla bla -->
+
+    <item android:title="Lain Lain">
+        <menu>
+            <item android:title="Tentang Pengembang"
+                android:id="@+id/tentang"
+                android:icon="@android:drawable/ic_dialog_info" />
+            <item
+                android:id="@+id/exit"
+                android:icon="@drawable/exit"
+                android:title="Exit" />
+        </menu>
+    </item>
+
+</menu>

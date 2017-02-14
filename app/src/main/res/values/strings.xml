@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lauwba Techno</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="about">Lauwba Techno Indonesia adalah perusahaan yang bergerak dibidang Teknologi Informasi khususnya software development dan IT Training. Lauwba Techno berdiri sejak tahun 2009 yang sebelumnya lahir dan berkembang di Yogyakarta, berikut adalah beberapa produk dan jasa yang kami tawarkan:
+                                \n\n
+                                Pembuatan Website
+                                \n\n
+                                =>Jasa pembuatan website seperti website perusahaan, instansi pemerintahan, kampus, penjualan online, hotel, sekolah, pribadi dll. Setiap website yang kami buatkan dilengkapi pula dengan aplikasi androidnya sehingga memudahkan untuk mengakses menggunakan mobile.
+                                \n\n
+
+
+                                Training dibidang IT
+                                \n\n
+                                => Saat ini kami telah meluluskan peserta training dari berbagai latar bekalang baik dari kalangan wiswasta, karyawan, dosen, guru dan mahasiswa yang saat ini sudah -+ 500 peserta. Beberapa bidang yang diantaranya yaitu pemrograman web, java(aplikasi android), jaringan(mikrotik) dan desin grafis</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
